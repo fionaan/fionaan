@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @fionaan
-- 👀 I’m interested in languages such as HTML, PHP, & CSS.
-- 🌱 I’m currently learning VB.Net.
-- 💞️ I’m not currently looking for collaborations.
-- 📫 Reach me here: fionaanma@gmail.com
+- 👀 I’m interested in languages such as JavaScript and Java.
+- 👀 I’m interested in frameworks such as NestJS, ExpressJS, and ReactJS.
+- 🌱 I’m currently learning Java using SpringBoot framework.
+- 💞️ I’m currently looking for collaborations.
+- 📫 Reach me here: fionaanleimariano@gmail.com
 
 <!---
 fionaan/fionaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
